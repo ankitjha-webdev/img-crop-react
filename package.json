@@ -1,5 +1,6 @@
 {
   "name": "image_crop",
+  "homepage": "https://ankitjha-webdev.github.io/img-crop-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
